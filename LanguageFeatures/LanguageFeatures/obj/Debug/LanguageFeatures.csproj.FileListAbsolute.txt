@@ -21,6 +21,5 @@ C:\Users\Kasun\Documents\GitHub\LanguageFeaturesApp\LanguageFeatures\LanguageFea
 C:\Users\Kasun\Documents\GitHub\LanguageFeaturesApp\LanguageFeatures\LanguageFeatures\bin\System.Web.WebPages.xml
 C:\Users\Kasun\Documents\GitHub\LanguageFeaturesApp\LanguageFeatures\LanguageFeatures\bin\System.Web.WebPages.Deployment.xml
 C:\Users\Kasun\Documents\GitHub\LanguageFeaturesApp\LanguageFeatures\LanguageFeatures\bin\System.Web.WebPages.Razor.xml
-C:\Users\Kasun\Documents\GitHub\LanguageFeaturesApp\LanguageFeatures\LanguageFeatures\obj\Debug\LanguageFeatures.csprojResolveAssemblyReference.cache
 C:\Users\Kasun\Documents\GitHub\LanguageFeaturesApp\LanguageFeatures\LanguageFeatures\obj\Debug\LanguageFeatures.dll
 C:\Users\Kasun\Documents\GitHub\LanguageFeaturesApp\LanguageFeatures\LanguageFeatures\obj\Debug\LanguageFeatures.pdb
